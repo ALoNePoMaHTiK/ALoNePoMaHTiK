@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @ALoNePoMaHTiK
+- 👀 I’m interested in 
+     - C#
+        - WPF (MVVM)
+        - Unity
+        - ASP.NET
+     - C++
+     - Python
+        -Google Spread Sheets
+- 🌱 I’m currently learning jQuery
